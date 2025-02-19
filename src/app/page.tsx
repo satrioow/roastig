@@ -176,7 +176,7 @@ export default function Home() {
       <footer className="fixed max-w-[500px] bottom-4 right-5 left-5 mx-auto rounded-lg py-3 text-center bg-gray-950 border border-white">
         <div className="flex justify-evenly">
           <a
-            href="https://instagram.com/tandika10"
+            href="https://instagram.com/satryorr"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 flex items-center gap-2 animate-pulse"
@@ -185,7 +185,7 @@ export default function Home() {
           </a>
           <span className="font-thin text-sm text-gray-800">|</span>
           <a
-            href="https://github.com/vergatan10"
+            href="https://github.com/satrioow"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 flex items-center gap-2 animate-pulse"
